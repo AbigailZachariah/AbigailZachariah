@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F77F00&center=true&vCenter=true&width=550&lines=Hey+there!+👋;I'm+𝑨𝒃𝒊𝒈𝒂𝒊𝒍+𝑨𝒍een+𝒁𝒂𝒄h𝒂𝒓𝒊𝒂h" alt="Typing SVG" />
+</p>
 
-<!--
-**AbigailZachariah/AbigailZachariah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌟 About Me
+- 📚 I am a *B.Tech CSE core* student  
+- 💻 Passionate about problem-solving & exploring new technologies  
+- 🚀 Currently learning *C++* and improving my *DSA* skills  
+- 🎯 Goal: To build impactful projects that make life easier  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚒️ Tech Stacks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=C++,python,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbigailZachariah&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbigailZachariah&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 💡 Quote I Live By
+> "THINK BIG.TRUST YOURSELF AND MAKE IT HAPPEN"
+
+---
