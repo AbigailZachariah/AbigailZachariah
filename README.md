@@ -8,7 +8,7 @@
 - 📚 I am a *B.Tech CSE core* student  
 - 💻 Passionate about problem-solving & exploring new technologies  
 - 🚀 Currently learning *C++* and improving my *DSA* skills  
-- 🎯 Goal: To build impactful projects that make life easier  
+- 🎯 Goal: To build impactful projects that make life easier
 
 ---
 
